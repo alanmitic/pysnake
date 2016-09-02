@@ -1,2 +1,2 @@
 # pysnake
-Snake game written in pure pyhton
+Snake game written in pure python
